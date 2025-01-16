@@ -147,7 +147,7 @@ class DQN_Network(nn.Module):
         # Apply Xavier Initialization to all Linear layers
         self.FC.apply(self.init_weights)
 
-    def init_weights(layer):
+    def init_weights(self, layer):
         """
         Initialize weights for Linear layers using Xavier Uniform initialization.
         
