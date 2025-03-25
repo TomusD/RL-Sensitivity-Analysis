@@ -68,7 +68,7 @@ This repository contains the implementation, analysis, and report for our Reinfo
 
 **Kotsopoulos Dimitris**
 
-**Triantafillou Thanasis**
+**Triantafyllou Thanasis**
 
 ## License
 
